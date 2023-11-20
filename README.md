@@ -1,6 +1,6 @@
 # Minimalistic VNC-Server for ESP32 and SSD1306 OLED
 VNC server for ESP32 with SSD1306 OLED
-![image info](images/ConnectedWithRealVNC.png)
+![Connected with RealVNC](ConnectedWithRealVNC.png)
 
 Shows basic principle of how to do an VNC server to allow connection and control of OLED image.
 Board: ESP32 (used TTGO WiFi & Bluetooth Battery OLED)
